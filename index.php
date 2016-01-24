@@ -9,10 +9,5 @@
 <h1>Hello, world! Yes! Live edit work! 2</h1>
 <p>New line 2</p>
 <p>Other line</p>
-<p>Other line</p>
-<p>Other line</p>
-<p>Other line</p>
-<p>Other line</p>
-<p>Other line</p>
 </body>
 </html>
