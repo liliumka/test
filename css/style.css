@@ -6,8 +6,9 @@
 body {
     width: 80%;
     margin:auto;
-    color: red;
+    color: yellow;
 }
 h1 {
-    color: white;
+    color: green;
+    font-size: 20px;
 }
