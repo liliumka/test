@@ -3,3 +3,11 @@
     margin: 0;
     outline:none;
 }
+body {
+    width: 80%;
+    margin:auto;
+    color: red;
+}
+h1 {
+    color: green;
+}

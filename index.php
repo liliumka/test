@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-<h1>Hello, world! Yes! Live edit work!</h1>
+<h1>Hello, world! Yes! Live edit work! 2</h1>
 <p>New line 2</p>
 <p>Other line</p>
 <p>Other line</p>
